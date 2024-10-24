@@ -1,6 +1,9 @@
-## Hi there 👋 I am Bhone.
+## Hi there 👋 I am Bhone. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=transparent)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=shadow-green)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **BhonePyae-Kyaw/BhonePyae-Kyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

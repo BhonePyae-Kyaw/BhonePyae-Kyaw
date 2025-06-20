@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=vision-friendly-dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BhonePyae-Kyaw&theme=dark)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BhonePyae-Kyaw)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BhonePyae-Kyaw/BhonePyae-Kyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

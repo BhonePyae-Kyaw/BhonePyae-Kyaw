@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Bhone. 
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=BhonePyae-Kyaw)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=vision-friendly-dark)

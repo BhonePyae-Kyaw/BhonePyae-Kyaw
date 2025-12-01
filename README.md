@@ -1,32 +1,79 @@
-## Hi there 👋 I'm Bhone Pyae Kyaw
+<div align="center">
 
-Full-Stack Developer | CS @ Assumption University of Thailand |📍 Bangkok, Thailand 
+# 👋 Hi, I'm Bhone Pyae Kyaw
 
-📧 bhonepyaekyaw99@gmail.com
+### Full-Stack Developer | Computer Science @ Assumption University of Thailand
 
-<br />
+📍 Bangkok, Thailand | 📧 bhonepyaekyaw99@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhone-pyae-kyaw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhone-pyae-kyaw/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhonepyaekyaw99@gmail.com)
 
-### 🚀 Currently Building
+</div>
 
-- **Hotel Reservation System & Complaint Management System with LINE** - For Convenient Park Hotel Bangkok
+---
 
-### 🔧 Currently Maintaining
+## 🚀 Currently Building
 
-- **Stepture** - Automated documentation tool ([Frontend](https://github.com/Stepture/stepture-frontend), [Chrome Extension](https://github.com/Stepture/stepture-extension))
+<table>
+  <tr>
+    <td>
+      <b>🏨 Hotel Management System</b><br/>
+      <i>Hotel Reservation & Complaint Management with LINE Integration</i><br/>
+      <sub>For Convenient Park Hotel Bangkok</sub>
+    </td>
+  </tr>
+</table>
 
-### 🤝 Contributing To
+## 🔧 Currently Maintaining
 
-- **[VMESGrinds](https://github.com/juliaizbroke/VMESGrinds)**
+<table>
+  <tr>
+    <td>
+      <b>📝 Stepture</b> - Automated Documentation Tool<br/>
+      <sub>Chrome extension for workflow documentation</sub><br/>
+      <a href="https://github.com/Stepture/stepture-frontend">Frontend</a> • 
+      <a href="https://github.com/Stepture/stepture-extension">Chrome Extension</a>
+    </td>
+  </tr>
+</table>
 
-### 📜 Certifications
+## 🤝 Contributing To
 
-- **AWS Certified Cloud Practitioner** (May 2025)
-- **Huawei Certified Cloud Developer Associate** (Nov 2025)
-- **Linux Foundation Certified System Administrator (LFCS)** - In Progress (Expected April 2026)
+<table>
+  <tr>
+    <td>
+      <b>💻 <a href="https://github.com/juliaizbroke/VMESGrinds">VMESGrinds</a></b><br/>
+      <sub>Peer-to-peer learning community for CS students</sub>
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
+## 📜 Certifications
+```
+✅ AWS Certified Cloud Practitioner                    (May 2025)
+✅ Huawei Certified Cloud Developer Associate          (Nov 2025)
+🎯 Linux Foundation Certified System Administrator     (Expected April 2026)
+```
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BhonePyae-Kyaw&theme=dark)](https://git.io/streak-stats)
-<br />
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BhonePyae-Kyaw&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhonePyae-Kyaw&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+<div align="center
+
+![Profile Views](https://komarev.com/ghpvc/?username=BhonePyae-Kyaw&color=blueviolet&style=flat-square)
+
+</div>

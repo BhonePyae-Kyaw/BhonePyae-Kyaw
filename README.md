@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhone Pyae Kyaw
+# 👋 Hi, I'm Bhone
 
 ### Full-Stack Developer | Computer Science @ Assumption University of Thailand
 
@@ -40,12 +40,6 @@ Peer-to-peer learning community for CS students
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BhonePyae-Kyaw&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhonePyae-Kyaw&layout=compact&theme=tokyonight&hide_border=true)
-
-### 💡 "Building scalable solutions, one commit at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BhonePyae-Kyaw&color=blueviolet&style=flat-square)
 

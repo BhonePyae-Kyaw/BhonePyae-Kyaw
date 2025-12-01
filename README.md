@@ -11,43 +11,22 @@
 
 </div>
 
----
-
 ## 🚀 Currently Building
 
-<table>
-  <tr>
-    <td>
-      <b>🏨 Hotel Management System</b><br/>
-      <i>Hotel Reservation & Complaint Management with LINE Integration</i><br/>
-      <sub>For Convenient Park Hotel Bangkok</sub>
-    </td>
-  </tr>
-</table>
+**🏨 Hotel Management System**  
+*Hotel Reservation & Complaint Management with LINE Integration*  
+For Convenient Park Hotel Bangkok
 
 ## 🔧 Currently Maintaining
 
-<table>
-  <tr>
-    <td>
-      <b>📝 Stepture</b> - Automated Documentation Tool<br/>
-      <sub>Chrome extension for workflow documentation</sub><br/>
-      <a href="https://github.com/Stepture/stepture-frontend">Frontend</a> • 
-      <a href="https://github.com/Stepture/stepture-extension">Chrome Extension</a>
-    </td>
-  </tr>
-</table>
+**📝 Stepture** - Automated Documentation Tool  
+Chrome extension for workflow documentation  
+[Frontend](https://github.com/Stepture/stepture-frontend) • [Chrome Extension](https://github.com/Stepture/stepture-extension)
 
 ## 🤝 Contributing To
 
-<table>
-  <tr>
-    <td>
-      <b>💻 <a href="https://github.com/juliaizbroke/VMESGrinds">VMESGrinds</a></b><br/>
-      <sub>Peer-to-peer learning community for CS students</sub>
-    </td>
-  </tr>
-</table>
+**💻 [VMESGrinds](https://github.com/juliaizbroke/VMESGrinds)**  
+Peer-to-peer learning community for CS students
 
 ## 📜 Certifications
 ```
@@ -56,23 +35,17 @@
 🎯 Linux Foundation Certified System Administrator     (Expected April 2026)
 ```
 
----
-
 <div align="center">
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BhonePyae-Kyaw&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BhonePyae-Kyaw&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhonePyae-Kyaw&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhonePyae-Kyaw&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhonePyae-Kyaw&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
----
-
-<div align="center
+### 💡 "Building scalable solutions, one commit at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BhonePyae-Kyaw&color=blueviolet&style=flat-square)
 

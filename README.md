@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Bhone Pyae Kyaw
 
-**Full-Stack Developer** | CS @ Assumption University of Thailand  
-📍 Bangkok, Thailand | 📧 bhonepyaekyaw99@gmail.com
+Full-Stack Developer | CS @ Assumption University of Thailand |📍 Bangkok, Thailand 
+
+📧 bhonepyaekyaw99@gmail.com
 
 <br />
 
